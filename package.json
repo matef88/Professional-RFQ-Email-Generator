@@ -1,0 +1,50 @@
+{
+  "name": "professional-rfq-email-generator",
+  "version": "2.0.0",
+  "description": "Professional RFQ email generator with templates, threading, history, and link management. Runs entirely in the browser. Built for procurement teams.",
+  "keywords": [
+    "react",
+    "typescript",
+    "email-generator",
+    "rfq",
+    "procurement",
+    "business-tools",
+    "browser-based",
+    "boq",
+    "bill-of-quantities"
+  ],
+  "author": "matef88",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matef88/Professional-RFQ-Email-Generator.git"
+  },
+  "homepage": "https://matef88.github.io/Professional-RFQ-Email-Generator",
+  "bugs": {
+    "url": "https://github.com/matef88/Professional-RFQ-Email-Generator/issues"
+  },
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "dependencies": {
+    "loader-utils": "3.2.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.38",
+    "@types/react-dom": "18.2.15",
+    "typescript": "4.9.5"
+  }
+}
