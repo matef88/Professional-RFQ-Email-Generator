@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1775158073795,
+      "tag": "0000_large_ironclad",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1775160610448,
+      "tag": "0001_add_scopes_to_suppliers",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1775162327020,
+      "tag": "0002_curved_dorian_gray",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1775166708784,
+      "tag": "0003_add_scoring_and_award",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1775170000000,
+      "tag": "0004_add_email_delivery_tracking",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1775190000000,
+      "tag": "0006_add_pricing_portal",
+      "breakpoints": true
+    }
+  ]
+}
